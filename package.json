@@ -2,7 +2,11 @@
     "name": "grun-vscode-theme",
     "displayName": "grun-vscode-theme",
     "description": "Grun Theme for VS Code",
-    "version": "0.0.1",
+    "version": "0.0.5",
+    "author": "Michael Anthony Leal Costa <MiCLeal@users.noreply.github.com>",
+    "license": "MIT",
+    "repository": "https://github.com/MiCLeal/grun-vscode-theme.git",
+    "publisher": "grun",
     "engines": {
         "vscode": "^1.52.0"
     },

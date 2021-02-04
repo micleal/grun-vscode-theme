@@ -29,8 +29,8 @@
     "editorSuggestWidget.background": "#330000", //#21252B
     "editorSuggestWidget.border": "#440000", //#181A1F
     "editorSuggestWidget.selectedBackground": "#850000", //#2c313a
-    "editorUnnecessaryCode.opacity": "#000000c0",
-    "editorWhitespace.foreground": "#484a50",
+    "editorUnnecessaryCode.opacity": "#000000c0", //#000000c0
+    "editorWhitespace.foreground": "#484a50", //#484a50
     "editorWidget.background": "#330000", //#21252B
     "input.background": "#550000", //#1d1f23
     "list.activeSelectionBackground": "#850000", //#2c313a
@@ -46,6 +46,8 @@
     "scrollbarSlider.hoverBackground": "#ffaa0080", //#5A637580
     "sideBar.background": "#330000", //#21252B
     "sideBarSectionHeader.background": "#440000", //#282c34
+    "sideBarSectionHeader.foreground": "#ffd700",
+    "sideBarTitle.foreground": "#ffd700", //n\a
     "statusBar.background": "#330000", //#21252B
     "statusBar.foreground": "#ffd700", //#9da5b4
     "statusBarItem.hoverBackground": "#850000", //#2c313a
@@ -54,10 +56,11 @@
 		"tab.activeBackground": "#220000", //#383E4A
 		"tab.activeForeground": "#ffd700", //n\a
     "tab.border": "#440000", //#181A1F
+    "tab.hoverBackground": "#440000", //n\a
 		"tab.inactiveBackground": "#330000", //#21252B
     "terminal.foreground": "#0099ff", //#abb2bf
     "terminal.ansiBlack": "#2d3139", //#2d3139
-    "terminal.ansiBlue": "#528bff",
+    "terminal.ansiBlue": "#528bff", //#528bff
     "terminal.ansiGreen": "#98c379",
     "terminal.ansiYellow": "#e5c07b",
     "terminal.ansiCyan": "#56b6c2",
@@ -65,13 +68,15 @@
     "terminal.ansiRed": "#e06c75",
     "terminal.ansiWhite": "#d7dae0",
     "terminal.ansiBrightBlack": "#7f848e",
-    "terminal.ansiBrightBlue": "#528bff",
+    "terminal.ansiBrightBlue": "#528bff", //#528bff
     "terminal.ansiBrightGreen": "#98c379",
     "terminal.ansiBrightYellow": "#e5c07b",
     "terminal.ansiBrightCyan": "#56b6c2",
     "terminal.ansiBrightMagenta": "#7e0097",
     "terminal.ansiBrightRed": "#f44747",
 		"terminal.ansiBrightWhite": "#d7dae0",
+    "terminal.selectionBackground": "#ffd700", //n/a
+    "debugToolBar.background": "#440000", //n/a
     "titleBar.activeBackground": "#330000", //#282c34
     "titleBar.activeForeground": "#ffd700", //#9da5b4
     "titleBar.inactiveBackground": "#220000", //#282c34
