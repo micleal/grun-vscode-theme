@@ -1,0 +1,21 @@
+{
+    "name": "grun-vscode-theme",
+    "displayName": "grun-vscode-theme",
+    "description": "Grun Theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Grun Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Grun Theme-color-theme.json"
+            }
+        ]
+    }
+}
