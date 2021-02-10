@@ -1,6 +1,6 @@
 {
-    "name": "grun-vscode-theme",
-    "displayName": "grun-vscode-theme",
+    "name": "grun-vscode-theme-dark",
+    "displayName": "Grun Theme (Dark)",
     "description": "Grun Theme for VS Code",
     "version": "0.0.5",
     "author": "Michael Anthony Leal Costa <MiCLeal@users.noreply.github.com>",
@@ -16,9 +16,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Grun Dark Theme",
+                "label": "Grun Theme (Dark)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Grun Theme-color-theme.json"
+                "path": "./themes/Grun Theme Dark-color-theme.json"
             }
         ]
     }
