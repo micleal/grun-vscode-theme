@@ -8,7 +8,7 @@
     "repository": "https://github.com/MiCLeal/grun-vscode-theme.git",
     "publisher": "grun",
     "engines": {
-        "vscode": "^1.52.0"
+        "vscode": "^1.54.1"
     },
     "categories": [
         "Themes"
