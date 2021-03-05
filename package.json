@@ -1,8 +1,8 @@
 {
-    "name": "grun-vscode-theme-dark",
-    "displayName": "Grun Theme (Dark)",
-    "description": "Grun Theme for VS Code",
-    "version": "0.0.5",
+    "name": "grun-vscode-themes",
+    "displayName": "Grun Themes",
+    "description": "Grun Themes for VS Code",
+    "version": "0.1.0",
     "author": "Michael Anthony Leal Costa <MiCLeal@users.noreply.github.com>",
     "license": "MIT",
     "repository": "https://github.com/MiCLeal/grun-vscode-theme.git",
@@ -16,9 +16,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Grun Theme (Dark)",
+                "label": "Grun Theme Iron Man (Red)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Grun Theme Dark-color-theme.json"
+                "path": "./themes/grun-ironman-red-color-theme.json"
+            },
+            {
+                "label": "Grun Theme iron Man (Black)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/grun-ironman-black-color-theme.json"
             }
         ]
     }
