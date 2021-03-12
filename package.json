@@ -11,7 +11,7 @@
     "build": "vsce package"
   },
   "engines": {
-    "vscode": "^1.54.1"
+    "vscode": "^1.54.2"
   },
   "categories": [
     "Themes"
