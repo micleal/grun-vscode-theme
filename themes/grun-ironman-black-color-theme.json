@@ -14,7 +14,7 @@
     "input.background": "#303030",
     "list.activeSelectionBackground": "#4E4E4E",
     "list.activeSelectionForeground": "#ffd700",
-    "quickInput.list.focusBackground": "#040404",
+    "quickInputList.focusBackground": "#040404",
     "list.highlightForeground": "#ffd700",
     "scrollbarSlider.activeBackground": "#ffd70080", //#747D9180
     "scrollbarSlider.background": "#ffbb0080", //#4E566680

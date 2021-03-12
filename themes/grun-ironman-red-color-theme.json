@@ -35,7 +35,7 @@
     "input.background": "#550000", //#1d1f23
     "list.activeSelectionBackground": "#850000", //#2c313a
     "list.activeSelectionForeground": "#ffd700", //#d7dae0
-    "quickInput.list.focusBackground": "#220000", //#383E4A
+    "quickInputList.focusBackground": "#220000", //#383E4A
     "list.highlightForeground": "#ffd700", //#c5c5c5
     "list.hoverBackground": "#550000", //#292d35
     "list.inactiveSelectionBackground": "#850000", //#2c313a
