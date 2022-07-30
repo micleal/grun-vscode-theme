@@ -21,7 +21,7 @@
       {
         "label": "Grun Terminal Retro Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/grun-terminal-retro.tmTheme"
+        "path": "./themes/grun-terminal-retro.jsonc"
       },
       {
         "label": "Grun Iron Man Theme (Red)",
