@@ -27,6 +27,11 @@
         "label": "Grun Theme iron Man (Black)",
         "uiTheme": "vs-dark",
         "path": "./themes/grun-ironman-black-color-theme.json"
+      },
+      {
+        "label": "Grun Terminal Retro Theme",
+        "uiTheme": "vs-dark",
+        "path": "grun-terminal-retro.json"
       }
     ]
   }
