@@ -6,7 +6,7 @@
   "author": "Michael Anthony Leal Costa <MiCLeal@users.noreply.github.com>",
   "license": "MIT",
   "repository": "https://github.com/MiCLeal/grun-vscode-theme.git",
-  "publisher": "grun",
+  "publisher": "Michael Anthony Leal Costa",
   "scripts": {
     "build": "vsce package"
   },
@@ -19,19 +19,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Grun Theme Iron Man (Red)",
+        "label": "Grun Terminal Retro Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grun-terminal-retro.tmTheme"
+      },
+      {
+        "label": "Grun Iron Man Theme (Red)",
         "uiTheme": "vs-dark",
         "path": "./themes/grun-ironman-red-color-theme.json"
       },
       {
-        "label": "Grun Theme iron Man (Black)",
+        "label": "Grun iron Man Theme (Black)",
         "uiTheme": "vs-dark",
         "path": "./themes/grun-ironman-black-color-theme.json"
-      },
-      {
-        "label": "Grun Terminal Retro Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/grun-terminal-retro.json"
       }
     ]
   }

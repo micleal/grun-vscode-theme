@@ -1,0 +1,20 @@
+{
+  "name": "Grun Terminal Retro",
+  "type": "dark",
+  "workbench.colorCustomization": {
+    "activityBar.background": "#000000",
+    "editor.background": "#0f0f0f"
+  },
+  "editor.tokenColorCustomization": [
+    {
+      "name": "Comment",
+      "scope": [
+        "comment",
+        "string.comment"
+      ],
+      "settings": {
+        "foreground": "#f0f0f0"
+      }
+    }
+  ]
+}
