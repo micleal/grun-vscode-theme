@@ -31,7 +31,7 @@
       {
         "label": "Grun Terminal Retro Theme",
         "uiTheme": "vs-dark",
-        "path": "grun-terminal-retro.json"
+        "path": "./themes/grun-terminal-retro.json"
       }
     ]
   }
